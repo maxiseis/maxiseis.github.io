@@ -1,6 +1,9 @@
 # addieshtml
 .md html not much really
-/n Just a random hosted website
+* Just a random hosted website
 Nothing to see here
 # addieshtml (c)
-website = yeixzyx.io
+website = maxiseis.github.io
+Additional [Data] is contact through:
+butter.the.bread727@gmail.com
+or my profile
