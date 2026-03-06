@@ -3,4 +3,4 @@
 /n Just a random hosted website
 Nothing to see here
 # addieshtml (c)
-website = yeizxyz.io
+website = yeixzyx.io
