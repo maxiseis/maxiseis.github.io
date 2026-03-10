@@ -5,6 +5,13 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>admin</title>
+        <script>
+    const isAdmin = localStorage.getItem("isAdmin");
+        if(!isAdmin || isAdmin !== "true") {
+            alert("Access denied. Redirecting to login.");
+            window.location.href = "login.html";
+            }
+        </script>
         <link rel="stylesheet" href="style.css">
     </head>
 
